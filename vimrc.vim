@@ -7,6 +7,7 @@ call plug#begin('~/.vim/plugs')
 
 Plug 'leafgarland/typescript-vim'
 Plug 'peitalin/vim-jsx-typescript'
+Plug 'dense-analysis/ale'
 
 
 "Initialize plugin system
