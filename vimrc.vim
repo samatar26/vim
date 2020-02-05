@@ -13,3 +13,5 @@ Plug 'dense-analysis/ale'
 "Initialize plugin system
 call plug#end()
 
+"Settings
+set number
